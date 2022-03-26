@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Engineering
 - 📚: I have a bachelor's degree in Electrical Engineering
 - 🌱 I’m currently learning Machine Learning on a Master's program (in Python frameworks)
-- :briefcase: I'm open for Freelance jobs
+- :briefcase: I'm open for Freelance jobs (data analysis, predictions and programs)
 
 I don't contribute much here, but I'll do my best.
 
