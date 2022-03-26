@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @jack3DX
 - 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning Machine Learning on Python frameworks
+- 🌱 I’m currently learning Machine Learning on a Master's program (in Python frameworks)
+
+I don't contribute much here, but I'll do my best.
 
 <br />
 
@@ -11,9 +13,11 @@
 
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" alt="GCP"  height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <h3 align="left">Connect with me:</h3>
