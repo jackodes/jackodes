@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jack3DX
-- 👀 I’m interested in Data Science and programming
+- 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning Machine Learning on Python frameworks
 
 <br />
