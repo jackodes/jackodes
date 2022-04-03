@@ -27,8 +27,8 @@ I don't contribute much here, but I'll do my best.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:jacksonkg97@gmail.com" target="_blank"> <img  align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Gmail" width="40" height="40"/></a>
-<a href="#" onclick='window.open("https://www.linkedin.com/in/jacksonkolling");return false;'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="linkedin" height="40" width="40" /></a>
-<a href="#" onclick='window.open("https://www.instagram.com/kollingj"); return false;'><img align="center" src="https://cdn-icons-png.flaticon.com/512/408/408758.png" alt="instagram" height="40" width="40" /></a>
+<a onclick='window.open("https://www.linkedin.com/in/jacksonkolling");return false;'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="linkedin" height="40" width="40" /></a>
+<a onclick='window.open("https://www.instagram.com/kollingj"); return false;'><img align="center" src="https://cdn-icons-png.flaticon.com/512/408/408758.png" alt="instagram" height="40" width="40" /></a>
 </p>
 
 
