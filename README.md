@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jack3DX
 - 👀 I’m interested in Data Science and Data Engineering
 - 📚: I have a bachelor's degree in Electrical Engineering
-- 🌱 I’m currently on a Master's program aimmed to Data Engineering
+- 🌱 I’m working as a Data Engineer
 
 
 
