@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jack3DX
 - 👀 I’m interested in Data Science and Data Engineering
-- 📚: I have a bachelor's degree in Electrical Engineering
-- 🌱 I’m working as a Data Engineer
+- 📚: I have an MBA degree in Data Engineering
+- 📚: I have a bachelor's degree (BE) in Electrical and Electronic Engineering
+- 🌱 I’m currently working as a Data Engineer
 
 
 
@@ -16,7 +17,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="pandas" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikit" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" alt="GCP"  height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" height="40" style="vertical-align:top; margin:4px">
