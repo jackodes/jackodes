@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @jack3DX
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in Data Science and Data Engineering
 - 📚: I have an MBA degree in Data Engineering
 - 📚: I have a bachelor's degree (BE) in Electrical and Electronic Engineering
-- 🌱 I’m currently working as a Data Engineer
+
+- I’m currently working as a Data Engineer
 
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jack3DX.jack3DX)
-[![Github](https://img.shields.io/github/followers/jack3DX?label=Follow&style=social)](https://github.com/jack3DX)
+[![Github](https://img.shields.io/github/followers/jack3DX?label=Follow&style=social)](https://github.com/jackodes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack3DX&theme=tokyonight)
 
@@ -18,7 +19,6 @@
 <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="pandas" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikit" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" alt="GCP"  height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" height="40" style="vertical-align:top; margin:4px">
 </p>
 
