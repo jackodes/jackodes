@@ -7,8 +7,8 @@
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=jack3DX.jack3DX)
-[![Github](https://img.shields.io/github/followers/jack3DX?label=Follow&style=social)](https://github.com/jackodes)
+![](https://visitor-badge.laobi.icu/badge?page_id=jackodes.jackodes)
+[![Github](https://img.shields.io/github/followers/jackodes?label=Follow&style=social)](https://github.com/jackodes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack3DX&theme=tokyonight)
 
