@@ -5,12 +5,7 @@
 
 - I’m currently working as a Data Engineer
 
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=jackodes.jackodes)
 [![Github](https://img.shields.io/github/followers/jackodes?label=Follow&style=social)](https://github.com/jackodes)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack3DX&theme=tokyonight)
 
 
 ## 🧰 Languages and Tools:
